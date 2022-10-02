@@ -1,0 +1,15 @@
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.csproj.AssemblyReference.cache
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.AssemblyInfoInputs.cache
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.AssemblyInfo.cs
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.csproj.CoreCompileInputs.cache
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\bin\Debug\net6.0\DZ_5_C#.exe
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\bin\Debug\net6.0\DZ_5_C#.deps.json
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\bin\Debug\net6.0\DZ_5_C#.runtimeconfig.json
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\bin\Debug\net6.0\DZ_5_C#.dll
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\bin\Debug\net6.0\DZ_5_C#.pdb
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.dll
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\refint\DZ_5_C#.dll
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.pdb
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\DZ_5_C#.genruntimeconfig.cache
+C:\Users\romaz\Desktop\GeekBrains\DZ_5_C#\obj\Debug\net6.0\ref\DZ_5_C#.dll
